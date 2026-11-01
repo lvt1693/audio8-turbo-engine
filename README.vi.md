@@ -146,3 +146,8 @@ trọng số đã fine-tune mà không cần sửa gì.
 
 Lưu ý khi chấm TTS bằng Whisper: `pipeline` ASR của transformers bịa ra câu "hãy subscribe cho kênh ghiền mì gõ" trên
 một số file; gọi thẳng `generate` của model trên đặc trưng 16 kHz thì không bị (`work/vi_peek.py`).
+
+## Giấy phép
+
+Code trong repo này theo [giấy phép MIT](LICENSE). Trọng số Audio8-TTS-Realistic-0.6b không thuộc repo và theo điều
+khoản riêng của nó; xem [model card](https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b).

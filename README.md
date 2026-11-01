@@ -149,3 +149,8 @@ fine-tuned weights unchanged.
 One note for anyone scoring TTS with Whisper: the transformers ASR `pipeline` hallucinated "hãy subscribe cho kênh
 ghiền mì gõ" on some of these wavs; calling the model's `generate` on 16 kHz features directly did not
 (`work/vi_peek.py`).
+
+## License
+
+The code in this repository is under the [MIT License](LICENSE). The Audio8-TTS-Realistic-0.6b weights are not part of
+it and come under their own terms; see the [model card](https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b).
