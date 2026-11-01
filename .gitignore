@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+models/
+data/
+*.wav
+*.tar
+work/out_*/
+work/hf_model/
+work/listen*/
+work/vi_eval/
+# the SSH helper holds server credentials
+work/rx.py
