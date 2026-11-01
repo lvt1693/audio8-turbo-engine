@@ -1,4 +1,4 @@
-# Audio8-fast-streaming-ccu
+# Audio8 Turbo Engine
 
 [Tiếng Việt](README.vi.md)
 
